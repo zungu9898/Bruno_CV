@@ -1,1 +1,3 @@
-# Bruno_CV
+# CURRICULUM VITAE
+
+This Repository contains my curriculum vitae. 
